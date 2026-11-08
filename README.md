@@ -78,6 +78,6 @@ Start Streamlit:
 Upload test_data.csv to evaluate the models.
 
 ## Project Links
-GitHub Repository: Add URL after uploading project.
+GitHub Repository: https://github.com/2026aj05377-aiml2026/ML-Assignment-2-Classification
 
-Deployed Streamlit App: Add URL after deployment.
+Deployed Streamlit App: https://ml-assignment-2-classification-83kkjkedrgtravjuokmzds.streamlit.app/
